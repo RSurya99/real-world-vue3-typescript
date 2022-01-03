@@ -1,5 +1,5 @@
 <script lang="ts">
-import { defineComponent, reactive, toRefs, computed } from 'vue'
+import { computed, defineComponent, reactive, toRefs } from 'vue'
 import { TodoItem } from '../types'
 
 export default defineComponent({
